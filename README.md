@@ -1,16 +1,17 @@
-### Hi there 👋
+### CptIdea | Вадик
 
-<!--
-**CptIdea/CptIdea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Языки и технологии
+- Golang - основной язык. Пишу, работаю, учу, обучаю
+- Typescript - для проектов с нодерами и Vue
+- Python - для кода в стиле * ого вау а можешь ещё короче *
+- Befunge - для души
+- Postgres - для адекватного хранения
+- Mongo -  для изощренного хранения
+- Clickhouse - для очень изощренного хранения
+- Docker - для адекватного перемещения
+- RabbitMQ - для изощренного общения
+- gRPC - для адекватного общения
 
-Here are some ideas to get you started:
+# О себе
+- tg - t.me/CptIdea
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
