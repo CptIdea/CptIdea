@@ -1,8 +1,8 @@
 ### CptIdea | Вадик
 
-# Языки и технологии
+# Tech
 Golang Python, Befunge, Mongo, pg, docker, grpc, nats
 
-# О себе
+# Contact
 - tg - t.me/CptIdea
 
